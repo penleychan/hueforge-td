@@ -1,5 +1,3 @@
-const isProd = process.env.NODE_ENV === 'production';
-
 /**
  * @type {import('next').NextConfig}
  */
@@ -10,7 +8,7 @@ const nextConfig = {
   },
 };
 
-if (isProd) {
+if (process.env.NODE_ENV === 'production') {
   nextConfig = {
     ...nextConfig,
     basePath: 'hueforge-td',
