@@ -2,7 +2,7 @@ import HueForgeTD from './components/hueforge-td';
 
 const Home = async () => {
   return (
-    <main className="flex flex-col justify-between p-24 gap-8">
+    <main className="flex flex-col justify-between sm:p-8 md:p-24 gap-8">
       <p>
         This compilation includes all reported Transmission Distances (TD) from
         various brands, contributed by the community. Some of these may already
