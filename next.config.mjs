@@ -1,12 +1,6 @@
 /**
  * @type {import('next').NextConfig}
  */
-const nextConfig = {
-  output: 'export',
-  images: {
-    unoptimized: true,
-  },
-  basePath: 'hueforge-td',
-};
+const nextConfig = {};
 
 export default nextConfig;
