@@ -6,13 +6,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: 'hueforge-td',
 };
-
-if (process.env.NODE_ENV === 'production') {
-  nextConfig = {
-    ...nextConfig,
-    basePath: 'hueforge-td',
-  };
-}
 
 export default nextConfig;
