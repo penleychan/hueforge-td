@@ -207,19 +207,19 @@
   {
     "name": "Fluorescent Orange",
     "type": "PLA+",
-    "color": "#7d5246",
+    "color": "#ce712a",
     "td": 9
   },
   {
     "name": "Fluorescent Yellow",
     "type": "PLA+",
-    "color": "#7d5246",
+    "color": "#a6da6d",
     "td": 8.5
   },
   {
     "name": "Fluorescent Green",
     "type": "PLA+",
-    "color": "#7d5246",
+    "color": "#00a065",
     "td": 8.5
   }
 ]
