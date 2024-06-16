@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Olive Green (Matte)",
+    "type": "PLA",
+    "color": "#4a4f2c",
+    "td": 0.8
+  },
+  {
+    "name": "Black",
+    "type": "PLA",
+    "color": "#000000",
+    "td": 0.4
+  },
+  {
+    "name": "Blue",
+    "type": "PLA",
+    "color": "#50c8eb",
+    "td": 2.0
+  },
+  {
+    "name": "Red",
+    "type": "PLA",
+    "color": "#ff0000",
+    "td": 12.0
+  },
+  {
+    "name": "Gray",
+    "type": "PLA",
+    "color": "#737373",
+    "td": 2.2
+  },
+  {
+    "name": "Sparkly Blue",
+    "type": "PLA",
+    "color": "#7c86b6",
+    "td": 1.8
+  },
+  {
+    "name": "Yellow",
+    "type": "PLA",
+    "color": "#fcf032",
+    "td": 12.0
+  },
+  {
+    "name": "Green",
+    "type": "PLA",
+    "color": "#00aa00",
+    "td": 2.6
+  },
+  {
+    "name": "Gold",
+    "type": "PLA",
+    "color": "#d5983e",
+    "td": 2.6
+  },
+  {
+    "name": "Silver",
+    "type": "PLA",
+    "color": "#aaa8a4",
+    "td": 1.4
+  }
+]

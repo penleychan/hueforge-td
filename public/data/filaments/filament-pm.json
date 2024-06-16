@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Pearl Blue",
+    "type": "PLA",
+    "color": null,
+    "td": 1.6
+  },
+  {
+    "name": "Gold",
+    "type": "PLA",
+    "color": null,
+    "td": 2.8
+  },
+  {
+    "name": "Metallic Green",
+    "type": "PLA",
+    "color": null,
+    "td": 1
+  },
+  {
+    "name": "Metallic Violet",
+    "type": "PLA",
+    "color": null,
+    "td": 2.4
+  },
+  {
+    "name": "Copper",
+    "type": "PLA",
+    "color": null,
+    "td": 3.6
+  },
+  {
+    "name": "Khaki",
+    "type": "PLA",
+    "color": null,
+    "td": 1
+  }
+]

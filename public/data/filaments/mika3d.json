@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Black",
+    "type": "PLA",
+    "color": "#000000",
+    "td": 0.4
+  },
+  {
+    "name": "Silk Dark Violet Purple",
+    "type": "PLA Silk",
+    "color": "#55007f",
+    "td": 0.6
+  },
+  {
+    "name": "White",
+    "type": "PLA",
+    "color": "#ffffff",
+    "td": 4.6
+  },
+  {
+    "name": "Silk White",
+    "type": "PLA Silk",
+    "color": "#ffffff",
+    "td": 4.6
+  },
+  {
+    "name": "Glow in the Dark Rainbow",
+    "type": "PLA",
+    "color": "#cecece",
+    "td": 0.6
+  },
+  {
+    "name": "Silk Gold",
+    "type": "PLA Silk",
+    "color": "#ffd700",
+    "td": 2
+  },
+  {
+    "name": "Silk Silver",
+    "type": "PLA Silk",
+    "color": "#c0c0c0",
+    "td": 1
+  },
+  {
+    "name": "Silk Red",
+    "type": "PLA Silk",
+    "color": "#be0000",
+    "td": 1.8
+  },
+  {
+    "name": "Silk Copper",
+    "type": "PLA Silk",
+    "color": "#b87333",
+    "td": 1
+  },
+  {
+    "name": "Silk Green",
+    "type": "PLA Silk",
+    "color": "#00aa00",
+    "td": 1
+  },
+  {
+    "name": "Silk Peacock Blue",
+    "type": "PLA Silk",
+    "color": "#00ffff",
+    "td": 1.4
+  },
+  {
+    "name": "Silk Lime Green",
+    "type": "PLA Silk",
+    "color": "#a6ff00",
+    "td": 2.2
+  },
+  {
+    "name": "Silk Yellow",
+    "type": "PLA Silk",
+    "color": "#ffff00",
+    "td": 5.4
+  },
+  {
+    "name": "Silk Orange",
+    "type": "PLA Silk",
+    "color": "#ffaa00",
+    "td": 4.4
+  },
+  {
+    "name": "Silk Salmon Orange",
+    "type": "PLA Silk",
+    "color": "#ffd48e",
+    "td": 2
+  },
+  {
+    "name": "Silk Pink",
+    "type": "PLA Silk",
+    "color": "#ffc4fc",
+    "td": 3.4
+  },
+  {
+    "name": "Silk Sapphire Blue",
+    "type": "PLA Silk",
+    "color": "#0000be",
+    "td": 1.4
+  }
+]

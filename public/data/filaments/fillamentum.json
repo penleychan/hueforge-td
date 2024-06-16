@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Chocolate Brown",
+    "type": "PLA",
+    "color": "#442f29",
+    "td": 0.4
+  },
+  {
+    "name": "Orange",
+    "type": "PLA",
+    "color": "#ed6b21",
+    "td": 1.6
+  },
+  {
+    "name": "Mukha",
+    "type": "PLA",
+    "color": "#e3b282",
+    "td": 3.5
+  }
+]

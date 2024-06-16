@@ -1,0 +1,225 @@
+[
+  {
+    "name": "Blue",
+    "type": "PETG",
+    "color": "#2974ff",
+    "td": 3.5
+  },
+  {
+    "name": "Red",
+    "type": "PLA+",
+    "color": "#be0608",
+    "td": 4
+  },
+  {
+    "name": "White",
+    "type": "PLA+",
+    "color": "#e7e7e0",
+    "td": 5.6
+  },
+  {
+    "name": "Black",
+    "type": "PLA+",
+    "color": "#272729",
+    "td": 0.5
+  },
+  {
+    "name": "Yellow",
+    "type": "PLA+",
+    "color": "#f6c42d",
+    "td": 5
+  },
+  {
+    "name": "Tan",
+    "type": "PLA+",
+    "color": "#d6c6a9",
+    "td": 2.6
+  },
+  {
+    "name": "Mystic Purple",
+    "type": "PLA+",
+    "color": "#623072",
+    "td": 2.8
+  },
+  {
+    "name": "Blue",
+    "type": "PLA+",
+    "color": "#0052ab",
+    "td": 2.8
+  },
+  {
+    "name": "Coyote Brown",
+    "type": "PLA+",
+    "color": "#906c3f",
+    "td": 3.6
+  },
+  {
+    "name": "Light Blue",
+    "type": "PLA+",
+    "color": "#229bd5",
+    "td": 5
+  },
+  {
+    "name": "Orange",
+    "type": "PLA+",
+    "color": "#d43d0e",
+    "td": 3.2
+  },
+  {
+    "name": "Teal",
+    "type": "PLA+",
+    "color": "#0095a3",
+    "td": 4.2
+  },
+  {
+    "name": "Space Gray",
+    "type": "PLA+",
+    "color": "#a9a9a7",
+    "td": 3.6
+  },
+  {
+    "name": "Vintage Rose",
+    "type": "PLA+",
+    "color": "#dcc7b9",
+    "td": 7.4
+  },
+  {
+    "name": "Night Gray",
+    "type": "PLA+",
+    "color": "#383f44",
+    "td": 0.8
+  },
+  {
+    "name": "Pink",
+    "type": "PLA+",
+    "color": "#c42f5f",
+    "td": 4
+  },
+  {
+    "name": "Sliver",
+    "type": "PLA+",
+    "color": "#898585",
+    "td": 1.2
+  },
+  {
+    "name": "Key Lime",
+    "type": "PLA+",
+    "color": "#dcfe7e",
+    "td": 7.2
+  },
+  {
+    "name": "Army Green",
+    "type": "PLA+",
+    "color": "#5b5e40",
+    "td": 4
+  },
+  {
+    "name": "Violet",
+    "type": "PLA+",
+    "color": "#7c6aaa",
+    "td": 2.6
+  },
+  {
+    "name": "Fuchsia",
+    "type": "PLA+",
+    "color": "#a2468d",
+    "td": 8.2
+  },
+  {
+    "name": "Gold",
+    "type": "PLA+",
+    "color": "#c79d6c",
+    "td": 8
+  },
+  {
+    "name": "Navy Blue",
+    "type": "PLA+",
+    "color": "#10254c",
+    "td": 3.6
+  },
+  {
+    "name": "Vanilla Cream",
+    "type": "PLA+",
+    "color": "#d3d0ba",
+    "td": 7.8
+  },
+
+  {
+    "name": "Burnt Orange",
+    "type": "PLA+",
+    "color": "#b96023",
+    "td": 3.6
+  },
+  {
+    "name": "Forest Green",
+    "type": "PLA+",
+    "color": "#07592c",
+    "td": 1.8
+  },
+  {
+    "name": "Blue Light",
+    "type": "PLA+",
+    "color": "#229bd5",
+    "td": 2.6
+  },
+  {
+    "name": "Clear",
+    "type": "PLA+",
+    "color": "#cbcdcd",
+    "td": 3.6
+  },
+  {
+    "name": "Baby Blue",
+    "type": "PLA+",
+    "color": "#c3dee5",
+    "td": 5
+  },
+  {
+    "name": "Light Pink",
+    "type": "PLA+",
+    "color": "#dc9d9f",
+    "td": 3.6
+  },
+  {
+    "name": "Candy Red",
+    "type": "PLA+",
+    "color": "#a92a30",
+    "td": 5
+  },
+  {
+    "name": "Brown",
+    "type": "PLA+",
+    "color": "#61392a",
+    "td": 1.2
+  },
+  {
+    "name": "Apple Green",
+    "type": "PLA+",
+    "color": "#60b04e",
+    "td": 4
+  },
+  {
+    "name": "Copper",
+    "type": "PLA+",
+    "color": "#7d5246",
+    "td": 3
+  },
+  {
+    "name": "Fluorescent Orange",
+    "type": "PLA+",
+    "color": "#7d5246",
+    "td": 9
+  },
+  {
+    "name": "Fluorescent Yellow",
+    "type": "PLA+",
+    "color": "#7d5246",
+    "td": 8.5
+  },
+  {
+    "name": "Fluorescent Green",
+    "type": "PLA+",
+    "color": "#7d5246",
+    "td": 8.5
+  }
+]

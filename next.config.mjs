@@ -1,10 +1,20 @@
-/** @type {import('next').NextConfig} */
+const isProd = process.env.NODE_ENV === 'production';
+
+/**
+ * @type {import('next').NextConfig}
+ */
 const nextConfig = {
   output: 'export',
-  basePath: '/hueforge-td',
   images: {
     unoptimized: true,
   },
 };
+
+if (isProd) {
+  nextConfig = {
+    ...nextConfig,
+    basePath: 'hueforge-td',
+  };
+}
 
 export default nextConfig;

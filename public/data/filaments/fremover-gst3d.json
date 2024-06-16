@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Apple Green",
+    "type": "PLA+",
+    "color": "#31CB00",
+    "td": 10
+  },
+  {
+    "name": "Bee Honey",
+    "type": "PLA+",
+    "color": "#FEB300",
+    "td": 13
+  },
+  {
+    "name": "Brown",
+    "type": "PLA+",
+    "color": "#784943",
+    "td": 5
+  },
+  {
+    "name": "Bubble Gum",
+    "type": "PLA+",
+    "color": "#daadc6",
+    "td": 5.5
+  },
+  {
+    "name": "Coral Reef",
+    "type": "PLA+",
+    "color": "#ECB052",
+    "td": 14
+  },
+  {
+    "name": "Fluorescent Green",
+    "type": "PLA+",
+    "color": "#00FB55",
+    "td": 20
+  },
+  {
+    "name": "Fluorescent Orange",
+    "type": "PLA+",
+    "color": "#FF5200",
+    "td": 20
+  },
+  {
+    "name": "Ice Blue",
+    "type": "PLA+",
+    "color": "#2DC3E2",
+    "td": 5.5
+  },
+  {
+    "name": "Light Blue",
+    "type": "PLA+",
+    "color": "#4AABC7",
+    "td": 4
+  },
+  {
+    "name": "Red",
+    "type": "PLA+",
+    "color": "#CC323D",
+    "td": 6.5
+  },
+  {
+    "name": "Violet",
+    "type": "PLA+",
+    "color": "#8556A2",
+    "td": 5
+  },
+  {
+    "name": "White",
+    "type": "PLA+",
+    "color": "#CED2C6",
+    "td": 6
+  },
+  {
+    "name": "Yellow",
+    "type": "PLA+",
+    "color": "#DEB800",
+    "td": 9
+  },
+  {
+    "name": "Army Green",
+    "type": "PLA+",
+    "color": "#326B54",
+    "td": 5.5
+  },
+  {
+    "name": "Blue",
+    "type": "PLA+",
+    "color": "#176AE1",
+    "td": 3.5
+  }
+]

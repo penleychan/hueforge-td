@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Gentleman's Gray",
+    "type": "PLA",
+    "color": "#354047",
+    "td": 0.2
+  },
+  {
+    "name": "Royal Blue",
+    "type": "PLA",
+    "color": "#022bc0",
+    "td": 0.1
+  },
+  {
+    "name": "Galaxy Purple",
+    "type": "PLA",
+    "color": "#4D2B80",
+    "td": 4.2
+  },
+  {
+    "name": "Lipstick Red",
+    "type": "PLA",
+    "color": "#ff0811",
+    "td": 4.2
+  },
+  {
+    "name": "Pineapple Yellow",
+    "type": "PLA",
+    "color": "#ffff40",
+    "td": 8.4
+  },
+  {
+    "name": "Prusa Orange",
+    "type": "PLA",
+    "color": "#ff7b23",
+    "td": 8.0
+  },
+  {
+    "name": "Prusa Orange",
+    "type": "PETG",
+    "color": "#E27635",
+    "td": 3.7
+  },
+  {
+    "name": "Galaxy Silver",
+    "type": "PLA",
+    "color": "#9D9BA2",
+    "td": 3.0
+  },
+  {
+    "name": "Galaxy Green",
+    "type": "PLA",
+    "color": "#007622",
+    "td": 3.0
+  },
+  {
+    "name": "Lime Green",
+    "type": "PLA",
+    "color": "#88A144",
+    "td": 7.5
+  },
+  {
+    "name": "Opal Green",
+    "type": "PLA",
+    "color": "#1A5E4F",
+    "td": 8.5
+  },
+  {
+    "name": "Pearl White",
+    "type": "PLA",
+    "color": "#fff2eb",
+    "td": 9.4
+  },
+  {
+    "name": "Pearl Mouse",
+    "type": "PLA",
+    "color": "#A49D8E",
+    "td": 1.6
+  },
+  {
+    "name": "Jet Black",
+    "type": "PLA",
+    "color": "#202124",
+    "td": 0.6
+  },
+  {
+    "name": "Galaxy Black",
+    "type": "PLA",
+    "color": "#232323",
+    "td": 0.9
+  },
+  {
+    "name": "Jungle Green",
+    "type": "PETG",
+    "color": "#20965A",
+    "td": 2.5
+  },
+  {
+    "name": "Army Green",
+    "type": "PLA",
+    "color": "#5e6345",
+    "td": 0.7
+  },
+  {
+    "name": "Azure Blue",
+    "type": "PLA",
+    "color": "#0082ad",
+    "td": 5.3
+  },
+  {
+    "name": "Galaxy Black",
+    "type": "PETG",
+    "color": "#09180A",
+    "td": 0.8
+  }
+]
