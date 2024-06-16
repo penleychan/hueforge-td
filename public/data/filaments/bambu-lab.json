@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Jade White",
+    "type": "PLA Basic",
+    "color": "#FFFFFF",
+    "td": 5.9
+  },
+  {
+    "name": "Beige",
+    "type": "PLA Basic",
+    "color": "#F7E6DE",
+    "td": 3.4
+  },
+  {
+    "name": "Gold",
+    "type": "PLA Basic",
+    "color": "#E4BD68",
+    "td": 2.8
+  },
+  {
+    "name": "Silver",
+    "type": "PLA Basic",
+    "color": "#A6A9AA",
+    "td": 0.5
+  },
+  {
+    "name": "Gray",
+    "type": "PLA Basic",
+    "color": "#8E9089",
+    "td": 0.4
+  },
+  {
+    "name": "Bronze",
+    "type": "PLA Basic",
+    "color": "#847D48",
+    "td": 1.0
+  },
+  {
+    "name": "Brown",
+    "type": "PLA Basic",
+    "color": "#9D432C",
+    "td": 2.0
+  },
+  {
+    "name": "Red",
+    "type": "PLA Basic",
+    "color": "#C12E1F",
+    "td": 4.2
+  },
+  {
+    "name": "Magenta",
+    "type": "PLA Basic",
+    "color": "#EC008C",
+    "td": 2.8
+  },
+  {
+    "name": "Pink",
+    "type": "PLA Basic",
+    "color": "#F55A74",
+    "td": 8.0
+  },
+  {
+    "name": "Orange",
+    "type": "PLA Basic",
+    "color": "#FF6A13",
+    "td": 5.9
+  },
+  {
+    "name": "Yellow",
+    "type": "PLA Basic",
+    "color": "#F4EE2A",
+    "td": 4.8
+  },
+  {
+    "name": "Bambu Green",
+    "type": "PLA Basic",
+    "color": "#00AE42",
+    "td": 1.2
+  },
+  {
+    "name": "Mistletoe Green",
+    "type": "PLA Basic",
+    "color": "#3F8E43",
+    "td": 1.0
+  },
+  {
+    "name": "Cyan",
+    "type": "PLA Basic",
+    "color": "#0086D6",
+    "td": 2.0
+  },
+  {
+    "name": "Blue",
+    "type": "PLA Basic",
+    "color": "#0A2989",
+    "td": 2.6
+  },
+  {
+    "name": "Purple",
+    "type": "PLA Basic",
+    "color": "#5E43B7",
+    "td": 1.4
+  },
+  {
+    "name": "Blue Gray",
+    "type": "PLA Basic",
+    "color": "#5B6579",
+    "td": 2.0
+  },
+  {
+    "name": "Black",
+    "type": "PLA Basic",
+    "color": "#000000",
+    "td": 0.2
+  },
+  {
+    "name": "Ivory White",
+    "type": "PLA Matte",
+    "color": "#FFFFFF",
+    "td": 3.5
+  },
+  {
+    "name": "Latte Brown",
+    "type": "PLA Matte",
+    "color": "#D3B7A7",
+    "td": 1.1
+  },
+  {
+    "name": "Desert Tan",
+    "type": "PLA Matte",
+    "color": "#E8DBB7",
+    "td": null
+  },
+  {
+    "name": "Ash Gray",
+    "type": "PLA Matte",
+    "color": "#9B9EA0",
+    "td": 1.5
+  },
+  {
+    "name": "Lilac Purple",
+    "type": "PLA Matte",
+    "color": "#AE96D4",
+    "td": 1.0
+  },
+  {
+    "name": "Sakura Pink",
+    "type": "PLA Matte",
+    "color": "#E8AFCF",
+    "td": 3.8
+  },
+  {
+    "name": "Mandarin Orange",
+    "type": "PLA Matte",
+    "color": "#F99963",
+    "td": 3.0
+  },
+  {
+    "name": "Lemon Yellow",
+    "type": "PLA Matte",
+    "color": "#F7D959",
+    "td": 2.5
+  },
+  {
+    "name": "Scarlet Red",
+    "type": "PLA Matte",
+    "color": "#DE4343",
+    "td": 2.2
+  },
+  {
+    "name": "Dark Red",
+    "type": "PLA Matte",
+    "color": "#BB3D43",
+    "td": 1.5
+  },
+  {
+    "name": "Dark Brown",
+    "type": "PLA Matte",
+    "color": "#7D6556",
+    "td": 0.1
+  },
+  {
+    "name": "Dark Green",
+    "type": "PLA Matte",
+    "color": "#68724D",
+    "td": "0.7"
+  },
+  {
+    "name": "Grass Green",
+    "type": "PLA Matte",
+    "color": "#61C680",
+    "td": 2.0
+  },
+  {
+    "name": "Ice Blue",
+    "type": "PLA Matte",
+    "color": "#A3D8E1",
+    "td": 1.8
+  },
+  {
+    "name": "Marine Blue",
+    "type": "PLA Matte",
+    "color": "#0078BF",
+    "td": 2.0
+  },
+  {
+    "name": "Dark Blue",
+    "type": "PLA Matte",
+    "color": "#042F56",
+    "td": 0.1
+  },
+  {
+    "name": "Charcoal",
+    "type": "PLA Matte",
+    "color": "#000000",
+    "td": 0.3
+  }
+]

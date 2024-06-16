@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Khaki",
+    "type": "PETG",
+    "color": "#9c947b",
+    "td": 0.8
+  },
+  {
+    "name": "Gun Metal Gray",
+    "type": "PETG",
+    "color": "#444a4c",
+    "td": 0.8
+  }
+]

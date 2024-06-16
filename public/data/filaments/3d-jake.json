@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Dark Blue",
+    "type": "PLA",
+    "color": "#20367A",
+    "td": 8.5
+  },
+  {
+    "name": "Black (Matte)",
+    "type": "PLA",
+    "color": "#452E2F",
+    "td": 0.3
+  },
+  {
+    "name": "White",
+    "type": "PLA",
+    "color": "#F8F5EF",
+    "td": 5.3
+  },
+  {
+    "name": "Green",
+    "type": "PLA",
+    "color": null,
+    "td": 0.7
+  },
+  {
+    "name": "Orange",
+    "type": "PLA",
+    "color": null,
+    "td": 1.7
+  },
+  {
+    "name": "Light Blue",
+    "type": "PLA",
+    "color": null,
+    "td": 1.5
+  },
+  {
+    "name": "Yellow",
+    "type": "PLA",
+    "color": null,
+    "td": 4.5
+  },
+  {
+    "name": "Pastel Blue",
+    "type": "PLA",
+    "color": null,
+    "td": 1.3
+  },
+  {
+    "name": "Brown",
+    "type": "PLA",
+    "color": null,
+    "td": 1.3
+  }
+]

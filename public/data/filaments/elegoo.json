@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Red",
+    "type": "PLA+",
+    "color": "#DA4B3D",
+    "td": 5.6
+  },
+  {
+    "name": "Gray",
+    "type": "PLA",
+    "color": "#717171",
+    "td": 0.8
+  },
+  {
+    "name": "Blue",
+    "type": "PLA",
+    "color": "#2B6DCC",
+    "td": 2.6
+  },
+  {
+    "name": "Orange",
+    "type": "PLA",
+    "color": "#FE910E",
+    "td": 8
+  },
+  {
+    "name": "Yellow",
+    "type": "PLA",
+    "color": "#F6D50E",
+    "td": 3.5
+  },
+  {
+    "name": "White",
+    "type": "PLA",
+    "color": "#F9F7F4",
+    "td": 11.8
+  },
+  {
+    "name": "White - Rapid",
+    "type": "PLA+",
+    "color": "#FFFFFF",
+    "td": 9.5
+  },
+  {
+    "name": "Biege",
+    "type": "PLA",
+    "color": "#fde8be",
+    "td": 8.8
+  },
+  {
+    "name": "Pink",
+    "type": "PLA+",
+    "color": "#ffaaff",
+    "td": 2.2
+  },
+  {
+    "name": "Black - Rapid",
+    "type": "PLA+",
+    "color": "#000000",
+    "td": 1.5
+  },
+  {
+    "name": "Sky Blue",
+    "type": "PLA",
+    "color": "#42a5cd",
+    "td": 5
+  },
+  {
+    "name": "Black",
+    "type": "PLA",
+    "color": "#000000",
+    "td": 0.5
+  }
+]

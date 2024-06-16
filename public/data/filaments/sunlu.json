@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Beige",
+    "type": "PLA",
+    "color": "#FFFFCE",
+    "td": 7.4
+  },
+  {
+    "name": "Grass Green",
+    "type": "PLA",
+    "color": "#15964A",
+    "td": 2.9
+  },
+  {
+    "name": "Yellow",
+    "type": "PLA",
+    "color": "#CEFFA2",
+    "td": 6.1
+  },
+  {
+    "name": "Red",
+    "type": "PLA",
+    "color": "#652D14",
+    "td": 6.8
+  },
+  {
+    "name": "Gray",
+    "type": "PLA",
+    "color": "#2D7F3C",
+    "td": 2.1
+  },
+  {
+    "name": "Blue",
+    "type": "PLA",
+    "color": "#092892",
+    "td": 4.3
+  },
+  {
+    "name": "Fuchsia",
+    "type": "PLA",
+    "color": "#6D115C",
+    "td": 5.2
+  },
+  {
+    "name": "Gold",
+    "type": "PLA",
+    "color": "#D2D052",
+    "td": 5.3
+  },
+  {
+    "name": "Green",
+    "type": "PLA",
+    "color": "#8CFF92",
+    "td": 3.6
+  },
+  {
+    "name": "Purple",
+    "type": "PLA",
+    "color": "#4C6AA4",
+    "td": 5.0
+  },
+  {
+    "name": "Silver",
+    "type": "PLA",
+    "color": "#A4C995",
+    "td": 1.7
+  },
+  {
+    "name": "Black",
+    "type": "PLA",
+    "color": "#09180A",
+    "td": 0.3
+  },
+  {
+    "name": "Cream White",
+    "type": "PLA",
+    "color": "#FFFFDD",
+    "td": 6.4
+  }
+]

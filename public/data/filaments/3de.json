@@ -1,0 +1,44 @@
+[
+  {
+    "name": "X-Strong White",
+    "type": "PLA",
+    "color": null,
+    "td": 11.7
+  },
+  {
+    "name": "X-Strong Black",
+    "type": "PLA",
+    "color": null,
+    "td": 0.8
+  },
+  {
+    "name": "Terminator Gray",
+    "type": "PLA",
+    "color": null,
+    "td": 3.8
+  },
+  {
+    "name": "Camel Beige",
+    "type": "PLA",
+    "color": null,
+    "td": 3.8
+  },
+  {
+    "name": "Army Green",
+    "type": "PLA",
+    "color": null,
+    "td": 2.4
+  },
+  {
+    "name": "Blue",
+    "type": "PLA",
+    "color": null,
+    "td": 3.8
+  },
+  {
+    "name": "Margenta",
+    "type": "PLA",
+    "color": null,
+    "td": 5.2
+  }
+]

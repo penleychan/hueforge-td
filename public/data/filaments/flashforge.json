@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Black",
+    "type": "PLA",
+    "color": "#000",
+    "td": 0.9
+  },
+  {
+    "name": "Yellow",
+    "type": "PLA",
+    "color": "#b99620",
+    "td": 8
+  },
+  {
+    "name": "Brown",
+    "type": "PLA",
+    "color": "#9c5633",
+    "td": 4
+  }
+]

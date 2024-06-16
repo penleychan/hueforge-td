@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Enzo Red",
+    "type": "PLA",
+    "color": "#ab3f40",
+    "td": 7.7
+  },
+  {
+    "name": "Iron Red",
+    "type": "PLA",
+    "color": "#72242a",
+    "td": 2
+  },
+  {
+    "name": "Terra Cotta",
+    "type": "PLA",
+    "color": "#b27a66",
+    "td": 3
+  },
+  {
+    "name": "Harajuku Pink",
+    "type": "PLA",
+    "color": "#ae2573",
+    "td": 5
+  },
+  {
+    "name": "Volcano Orange Red",
+    "type": "PLA",
+    "color": "#c63527",
+    "td": 6
+  },
+  {
+    "name": "McLaren Orange",
+    "type": "PLA",
+    "color": "#e27a18",
+    "td": 6.3
+  },
+  {
+    "name": "Simpson Yellow",
+    "type": "PLA",
+    "color": "#e1ce51",
+    "td": 7.7
+  },
+  {
+    "name": "Egg Yolk Yellow",
+    "type": "PLA",
+    "color": "#f2a53b",
+    "td": 6
+  },
+  {
+    "name": "British Racing Green",
+    "type": "PLA",
+    "color": "#224b37",
+    "td": 1.6
+  },
+  {
+    "name": "St Andrews Green",
+    "type": "PLA",
+    "color": "#486f41",
+    "td": 1.9
+  },
+  {
+    "name": "Military MBT Brown",
+    "type": "PLA",
+    "color": "#7e6c3d",
+    "td": 2.4
+  },
+  {
+    "name": "Autobot Blue",
+    "type": "PLA",
+    "color": "#ebeffb",
+    "td": 1.6
+  },
+  {
+    "name": "Cadet Blue",
+    "type": "PLA",
+    "color": "#3d6085",
+    "td": 2.8
+  },
+  {
+    "name": "Fighter Jet Blue",
+    "type": "PLA",
+    "color": "#324149",
+    "td": 1.2
+  },
+  {
+    "name": "Decepticon Purple",
+    "type": "PLA",
+    "color": "#41273b",
+    "td": 2.2
+  },
+  {
+    "name": "White",
+    "type": "PLA",
+    "color": "#e0e5f0",
+    "td": 7.4
+  },
+  {
+    "name": "Gold Krugerrand",
+    "type": "PLA",
+    "color": "#d0b17c",
+    "td": 9.3
+  },
+  {
+    "name": "Silver Dollar",
+    "type": "PLA",
+    "color": "#84898a",
+    "td": 0.8
+  },
+  {
+    "name": "Universal Beige",
+    "type": "PLA",
+    "color": "#ddc89d",
+    "td": 6.1
+  },
+  {
+    "name": "Ivory Complexion",
+    "type": "PLA",
+    "color": "#d8cfb1",
+    "td": 5.8
+  },
+  {
+    "name": "Fair Complexion",
+    "type": "PLA",
+    "color": "#e4d6be",
+    "td": 8
+  },
+  {
+    "name": "Dark Complexion",
+    "type": "PLA",
+    "color": "#a77c52",
+    "td": 2.2
+  },
+  {
+    "name": "Military Khaki",
+    "type": "PLA",
+    "color": "#a18a70",
+    "td": 1.8
+  },
+  {
+    "name": "Prototype Gray",
+    "type": "PLA",
+    "color": "#8e9190",
+    "td": 3.7
+  },
+  {
+    "name": "Game Cartridge Gray",
+    "type": "PLA",
+    "color": "#888c89",
+    "td": 3.6
+  },
+  {
+    "name": "Steel Gray",
+    "type": "PLA",
+    "color": "#76838a",
+    "td": 2.2
+  },
+  {
+    "name": "Castle Limestone Gray",
+    "type": "PLA",
+    "color": "#949284",
+    "td": 2.4
+  },
+  {
+    "name": "Jadeite Green",
+    "type": "PLA",
+    "color": "#a9bd9b",
+    "td": 3.5
+  },
+  {
+    "name": "Stealth Gray",
+    "type": "PLA",
+    "color": "#393c3b",
+    "td": 1.4
+  },
+  {
+    "name": "Black (Matte)",
+    "type": "PLA",
+    "color": "#292c2b",
+    "td": 1.2
+  },
+  {
+    "name": "Caribbean Coral",
+    "type": "PLA",
+    "color": "#d05b3e",
+    "td": 3.3
+  },
+  {
+    "name": "Leviathan Green Blue",
+    "type": "PLA",
+    "color": "#004851",
+    "td": 2
+  },
+  {
+    "name": "Black Cherry",
+    "type": "PLA",
+    "color": "#5d2e34",
+    "td": 3
+  },
+  {
+    "name": "Hannibal Red",
+    "type": "PLA",
+    "color": "#7d342c",
+    "td": 4.2
+  },
+  {
+    "name": "Mid Century Teal",
+    "type": "PLA",
+    "color": "#317175",
+    "td": 1.4
+  },
+  {
+    "name": "Deep Complexion",
+    "type": "PLA",
+    "color": "#634d44",
+    "td": 1.8
+  },
+  {
+    "name": "Military Green",
+    "type": "PLA",
+    "color": "#4a5441",
+    "td": 2.3
+  },
+  {
+    "name": "Graphite Gray",
+    "type": "PLA",
+    "color": "#676967",
+    "td": 1.6
+  },
+  {
+    "name": "Tuxedo Midnight Blue",
+    "type": "PLA",
+    "color": "#0a1f40",
+    "td": 0.9
+  },
+  {
+    "name": "White",
+    "type": "PETG",
+    "color": "#ebeffb",
+    "td": 6.4
+  },
+  {
+    "name": "Black",
+    "type": "PETG",
+    "color": "#000000",
+    "td": 0.2
+  },
+  {
+    "name": "Egg Yolk Yellow",
+    "type": "PETG",
+    "color": "#f4b658",
+    "td": 6.4
+  },
+  {
+    "name": "Hannibal Red",
+    "type": "PETG",
+    "color": "#5c2727",
+    "td": 2.2
+  },
+  {
+    "name": "Enzo Red",
+    "type": "PETG",
+    "color": "#5c2727",
+    "td": 3.1
+  },
+  {
+    "name": "Ivory",
+    "type": "PETG",
+    "color": "#fdf3c6",
+    "td": 6.2
+  },
+  {
+    "name": "Graphite Gray",
+    "type": "PETG",
+    "color": "#687382",
+    "td": 1.8
+  },
+  {
+    "name": "Stealth Gray",
+    "type": "PETG",
+    "color": "#535553",
+    "td": 1.4
+  },
+  {
+    "name": "Prototype Gray",
+    "type": "PETG",
+    "color": "#bbbcc9",
+    "td": 3
+  },
+  {
+    "name": "Simpson Yellow",
+    "type": "PETG",
+    "color": "#fbe868",
+    "td": 6.6
+  },
+  {
+    "name": "McLaren Orange",
+    "type": "PETG",
+    "color": "#e27a18",
+    "td": 5.8
+  },
+  {
+    "name": "British Racing Green",
+    "type": "PETG",
+    "color": "#153837",
+    "td": 1.4
+  },
+  {
+    "name": "Fighter Jet Blue",
+    "type": "PETG",
+    "color": "#3c4b56",
+    "td": 1.2
+  },
+  {
+    "name": "Universal Beige",
+    "type": "PETG",
+    "color": "#dec5a9",
+    "td": 4
+  },
+  {
+    "name": "Military Khaki",
+    "type": "PETG",
+    "color": "#909388",
+    "td": 2.5
+  },
+  {
+    "name": "Castle Limestone Gray",
+    "type": "PETG",
+    "color": "#909388",
+    "td": 2.1
+  },
+  {
+    "name": "Black Cherry",
+    "type": "PETG",
+    "color": "#372f2d",
+    "td": 2.9
+  },
+  {
+    "name": "Military MBT Brown",
+    "type": "PETG",
+    "color": "#7f6948",
+    "td": 3.2
+  },
+  {
+    "name": "Mid Century Teal",
+    "type": "PETG",
+    "color": "#317175",
+    "td": 1.8
+  },
+  {
+    "name": "Harajuku Pink",
+    "type": "PETG",
+    "color": "#ec4f9e",
+    "td": 4.1
+  },
+  {
+    "name": "Autobot Blue",
+    "type": "PETG",
+    "color": "#1f4488",
+    "td": 1.2
+  }
+]

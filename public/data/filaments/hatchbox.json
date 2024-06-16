@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Sparkle Blue",
+    "type": "PLA",
+    "color": "#67a3af",
+    "td": 8.5
+  },
+  {
+    "name": "True Red",
+    "type": "PLA",
+    "color": null,
+    "td": 5.5
+  },
+  {
+    "name": "True Blue",
+    "type": "PLA",
+    "color": "#273F97",
+    "td": 3.2
+  },
+  {
+    "name": "Cool Gray",
+    "type": "PLA",
+    "color": "#8F9291",
+    "td": 1.2
+  },
+  {
+    "name": "True White",
+    "type": "PLA",
+    "color": null,
+    "td": 3.3
+  },
+  {
+    "name": "True Yellow",
+    "type": "PLA",
+    "color": "#e9e002",
+    "td": 8.0
+  },
+  {
+    "name": "Beige",
+    "type": "PLA",
+    "color": "#c8bcae",
+    "td": 3.5
+  },
+  {
+    "name": "True Pink",
+    "type": "PLA",
+    "color": "#e36c82",
+    "td": 6.9
+  },
+  {
+    "name": "Iron Red",
+    "type": "PLA",
+    "color": "#7b1521",
+    "td": 3.6
+  },
+  {
+    "name": "True Green",
+    "type": "PLA",
+    "color": null,
+    "td": 3.5
+  },
+  {
+    "name": "Orange",
+    "type": "PLA",
+    "color": "#DA7029",
+    "td": 6
+  },
+  {
+    "name": "Neon Green",
+    "type": "PLA",
+    "color": "#00ff00",
+    "td": 5.0
+  },
+  {
+    "name": "Black (Matte)",
+    "type": "PLA",
+    "color": "#383835",
+    "td": 0.6
+  },
+  {
+    "name": "Pink",
+    "type": "PLA",
+    "color": null,
+    "td": 12
+  },
+  {
+    "name": "Gray Blue",
+    "type": "PLA",
+    "color": "#627587",
+    "td": 3.4
+  },
+  {
+    "name": "Peacock Blue",
+    "type": "PLA",
+    "color": "#0083A2",
+    "td": 3
+  },
+  {
+    "name": "Purple",
+    "type": "PLA",
+    "color": "#6d61A9",
+    "td": 1.8
+  },
+  {
+    "name": "Mint Green",
+    "type": "PLA",
+    "color": "#76DBC6",
+    "td": 3.9
+  },
+  {
+    "name": "Baby Blue",
+    "type": "PLA",
+    "color": "#61CCD3",
+    "td": 1.9
+  },
+  {
+    "name": "Light Blue",
+    "type": "PLA",
+    "color": "#007ABD",
+    "td": 3.1
+  },
+  {
+    "name": "Green",
+    "type": "PLA",
+    "color": "#009A5B",
+    "td": 3.3
+  },
+  {
+    "name": "Olive Green (Matte)",
+    "type": "PLA",
+    "color": "#556049",
+    "td": 0.9
+  },
+  {
+    "name": "Terracotta (Matte)",
+    "type": "PLA",
+    "color": "#B47C70",
+    "td": 1.3
+  },
+  {
+    "name": "Red",
+    "type": "PLA",
+    "color": "#BF3B3D",
+    "td": 4.1
+  },
+  {
+    "name": "Yellow",
+    "type": "PLA",
+    "color": "#e1d70e",
+    "td": 5.7
+  },
+  {
+    "name": "Dark Yellow",
+    "type": "PLA",
+    "color": "#f5ba18",
+    "td": 6
+  }
+]

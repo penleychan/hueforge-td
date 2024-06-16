@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Pure White",
+    "type": "PLA",
+    "color": "#f1ece1",
+    "td": 4.8
+  },
+  {
+    "name": "Pitch Black",
+    "type": "PLA",
+    "color": "#0e0e10",
+    "td": 0.8
+  },
+  {
+    "name": "Lemon Yellow",
+    "type": "PLA",
+    "color": "#f9a800",
+    "td": 11.2
+  },
+  {
+    "name": "Mauve Purple",
+    "type": "PLA",
+    "color": "#844c82",
+    "td": 4.8
+  },
+  {
+    "name": "Nuclear Red",
+    "type": "PLA",
+    "color": "#bb1e10",
+    "td": 4.8
+  },
+  {
+    "name": "Outrageous Orange",
+    "type": "PLA",
+    "color": "#e25303",
+    "td": 10.4
+  },
+  {
+    "name": "Atomic Pink",
+    "type": "PLA",
+    "color": "#d8a0a6",
+    "td": 8
+  },
+  {
+    "name": "Royal Blue",
+    "type": "PLA",
+    "color": "#00387b",
+    "td": 3.2
+  },
+  {
+    "name": "Light Gray",
+    "type": "PLA",
+    "color": "#8c969d",
+    "td": 3.2
+  },
+  {
+    "name": "Light Blue",
+    "type": "PLA",
+    "color": "#007cb0",
+    "td": 4.8
+  },
+  {
+    "name": "Grass Green",
+    "type": "PLA",
+    "color": "#61993b",
+    "td": 4
+  },
+  {
+    "name": "Beige Brown",
+    "type": "PLA",
+    "color": "#755C48",
+    "td": 4
+  },
+  {
+    "name": "Teal Blue",
+    "type": "PLA",
+    "color": "#7ebab5",
+    "td": 4.8
+  },
+  {
+    "name": "Army Green",
+    "type": "PLA",
+    "color": "#50533c",
+    "td": 4
+  },
+  {
+    "name": "Dark Gray",
+    "type": "PLA",
+    "color": "#52595d",
+    "td": 4.8
+  },
+  {
+    "name": "Ivory White",
+    "type": "PLA",
+    "color": "#e6d2b5",
+    "td": 8
+  },
+  {
+    "name": "Rust Copper",
+    "type": "PLA",
+    "color": "#8d4931",
+    "td": 6.4
+  },
+  {
+    "name": "Apricot",
+    "type": "PLA",
+    "color": "#e6baa8",
+    "td": 11.2
+  },
+  {
+    "name": "Forest Green",
+    "type": "PLA",
+    "color": "#008351",
+    "td": 3.2
+  },
+  {
+    "name": "Lime Green",
+    "type": "PLA",
+    "color": null,
+    "td": 8.8
+  },
+  {
+    "name": "Lagoon Blue",
+    "type": "PLA",
+    "color": "#048B8C",
+    "td": 4
+  },
+  {
+    "name": "Fluorescent Green",
+    "type": "PLA",
+    "color": "#00B51B",
+    "td": 6.4
+  },
+  {
+    "name": "Fluorescent Orange",
+    "type": "PLA",
+    "color": "#FF4D08",
+    "td": 11.2
+  }
+]

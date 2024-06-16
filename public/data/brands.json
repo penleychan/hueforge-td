@@ -1,0 +1,155 @@
+[
+  {
+    "name": "3D Jake",
+    "filaments": "/data/filaments/3d-jake.json"
+  },
+  {
+    "name": "3D-Fuel",
+    "filaments": "/data/filaments/3d-fuel.json"
+  },
+  {
+    "name": "3DE",
+    "filaments": "/data/filaments/3de.json"
+  },
+  {
+    "name": "Atomic",
+    "filaments": "/data/filaments/atomic.json"
+  },
+  {
+    "name": "Bambu Lab",
+    "filaments": "/data/filaments/bambu-lab.json"
+  },
+  {
+    "name": "Copymaster 3D",
+    "filaments": "/data/filaments/copymaster-3d.json"
+  },
+  {
+    "name": "Creality",
+    "filaments": "/data/filaments/creality.json"
+  },
+  {
+    "name": "Duramic 3D",
+    "filaments": "/data/filaments/duramic-3d.json"
+  },
+  {
+    "name": "Elegoo",
+    "filaments": "/data/filaments/elegoo.json"
+  },
+  {
+    "name": "ERYONE",
+    "filaments": "/data/filaments/eryone.json"
+  },
+  {
+    "name": "eSun",
+    "filaments": "/data/filaments/esun.json"
+  },
+  {
+    "name": "FilaCube",
+    "filaments": "/data/filaments/filacube.json"
+  },
+  {
+    "name": "Filament PM",
+    "filaments": "/data/filaments/filament-pm.json"
+  },
+  {
+    "name": "Fillamentum",
+    "filaments": "/data/filaments/fillamentum.json"
+  },
+  {
+    "name": "Flashforge",
+    "filaments": "/data/filaments/flashforge.json"
+  },
+  {
+    "name": "Formfutura",
+    "filaments": "/data/filaments/formfutura.json"
+  },
+  {
+    "name": "Fremover/GST3D",
+    "filaments": "/data/filaments/fremover-gst3d.json"
+  },
+  {
+    "name": "GreenGate3D",
+    "filaments": "/data/filaments/greengate-3d.json"
+  },
+  {
+    "name": "Hatchbox",
+    "filaments": "/data/filaments/hatchbox.json"
+  },
+  {
+    "name": "IIID Max",
+    "filaments": "/data/filaments/iiid-max.json"
+  },
+  {
+    "name": "Inland",
+    "filaments": "/data/filaments/inland.json"
+  },
+  {
+    "name": "Longer",
+    "filaments": "/data/filaments/longer.json"
+  },
+  {
+    "name": "Matterhacker",
+    "filaments": "/data/filaments/matterhacker.json"
+  },
+  {
+    "name": "Mika3D",
+    "filaments": "/data/filaments/mika3d.json"
+  },
+  {
+    "name": "Numakers",
+    "filaments": "/data/filaments/numakers.json"
+  },
+  {
+    "name": "Overture",
+    "filaments": "/data/filaments/overture.json"
+  },
+  {
+    "name": "Paramount 3D",
+    "filaments": "/data/filaments/paramount-3d.json"
+  },
+  {
+    "name": "Plast-Spaw",
+    "filaments": "/data/filaments/plast-spaw.json"
+  },
+  {
+    "name": "Polymaker",
+    "filaments": "/data/filaments/polymaker.json"
+  },
+  {
+    "name": "PrintBed",
+    "filaments": "/data/filaments/printbed.json"
+  },
+  {
+    "name": "Printed Solid",
+    "filaments": "/data/filaments/printed-solid.json"
+  },
+  {
+    "name": "Protopasta",
+    "filaments": "/data/filaments/protopasta.json"
+  },
+  {
+    "name": "Prusament",
+    "filaments": "/data/filaments/prusament.json"
+  },
+  {
+    "name": "R3D",
+    "filaments": "/data/filaments/r3d.json"
+  },
+  {
+    "name": "Repkord",
+    "filaments": "/data/filaments/repkord.json"
+  },
+  {
+    "name": "Sunlu",
+    "filaments": "/data/filaments/sunlu.json"
+  },
+
+  {
+    "name": "TeqStone PETG",
+    "filaments": "/data/filaments/teqstone-petg.json"
+  },
+  {
+    "name": "Zyltech",
+    "filaments": "/data/filaments/zyltech.json"
+  }
+]

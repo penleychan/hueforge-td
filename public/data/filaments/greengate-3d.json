@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mars Red",
+    "type": "PETG",
+    "color": "#8C3522",
+    "td": 1.5
+  },
+  {
+    "name": "Translucent Purple",
+    "type": "PETG",
+    "color": "#320553",
+    "td": 8
+  },
+  {
+    "name": "Amethyst",
+    "type": "PETG",
+    "color": "#B47ECE",
+    "td": 8
+  }
+]

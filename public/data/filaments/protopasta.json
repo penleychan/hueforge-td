@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Blood of My Enemies",
+    "type": "PLA",
+    "color": "#77232c",
+    "td": 11
+  },
+  {
+    "name": "Gold Dust Translucent",
+    "type": "PLA",
+    "color": "#c09952",
+    "td": 12
+  },
+  {
+    "name": "Forest Fantasy Green Multicolor",
+    "type": "PLA",
+    "color": "#39815a",
+    "td": 8
+  },
+  {
+    "name": "Silver Smoke Grey",
+    "type": "PLA",
+    "color": "#9e9c9a",
+    "td": 10.6
+  },
+  {
+    "name": "Cobalt Blue Translucent",
+    "type": "PLA",
+    "color": "#173a89",
+    "td": 7.8
+  },
+  {
+    "name": "Bottle Brown Translucent",
+    "type": "PLA",
+    "color": "#583f24",
+    "td": 6
+  },
+  {
+    "name": "Soda Green Translucent",
+    "type": "PLA",
+    "color": "#255a32",
+    "td": 5.4
+  },
+  {
+    "name": "Bobbi's Purple Iris",
+    "type": "PLA",
+    "color": "#292239",
+    "td": 6.3
+  },
+  {
+    "name": "Partly Sunny Yellow Multicolor",
+    "type": "PLA",
+    "color": "#f5c24e",
+    "td": 8.5
+  },
+  {
+    "name": "Tangerine Orange Metalic",
+    "type": "PLA",
+    "color": "#d35130",
+    "td": 3.1
+  },
+  {
+    "name": "Obsidian",
+    "type": "PLA",
+    "color": "#323438",
+    "td": 0.2
+  },
+  {
+    "name": "Summertime Green",
+    "type": "PLA",
+    "color": "#77cd7e",
+    "td": 6.5
+  },
+  {
+    "name": "Unicorn Tears White",
+    "type": "PLA",
+    "color": "#b8bfc3",
+    "td": 4.2
+  },
+  {
+    "name": "Second to None Silver",
+    "type": "PLA",
+    "color": "#a6b1ad",
+    "td": 2.8
+  },
+  {
+    "name": "Derek's Good Old Gray",
+    "type": "PLA",
+    "color": "#424c53",
+    "td": 0.2
+  },
+  {
+    "name": "Opaque Red",
+    "type": "PLA",
+    "color": "#c0292a",
+    "td": 5.2
+  },
+  {
+    "name": "Cloverleaf Metalic Green",
+    "type": "PLA",
+    "color": "#25494b",
+    "td": 1.6
+  },
+  {
+    "name": "Mermaid's Tale",
+    "type": "PLA",
+    "color": "#225365",
+    "td": 1.4
+  },
+  {
+    "name": "Burnt Orange Metalic",
+    "type": "PLA",
+    "color": "#974e35",
+    "td": 2
+  },
+  {
+    "name": "Electric Lemonade Metalic",
+    "type": "PLA",
+    "color": "#f0c944",
+    "td": 8
+  },
+  {
+    "name": "Galactic Empire Metalic Purple",
+    "type": "PLA",
+    "color": "#2d1e30",
+    "td": 0.5
+  },
+  {
+    "name": "Double Espresso Metalic Brown",
+    "type": "PLA",
+    "color": "#422c21",
+    "td": 1.2
+  },
+  {
+    "name": "Citrus Sunrise Orange Multicolor",
+    "type": "PLA",
+    "color": "#e25e35",
+    "td": 10.4
+  },
+  {
+    "name": "Iridescent Ice Clear Translucent",
+    "type": "PLA",
+    "color": "#e0dfe2",
+    "td": 16.4
+  },
+  {
+    "name": "Fiber White (Matte)",
+    "type": "PLA",
+    "color": "#e7e4df",
+    "td": 2.2
+  },
+  {
+    "name": "Opaque Natural",
+    "type": "PLA",
+    "color": "#d6d7d6",
+    "td": 12.2
+  },
+  {
+    "name": "Opaque Black",
+    "type": "PLA",
+    "color": "#0c0c0c",
+    "td": 0.3
+  },
+  {
+    "name": "Fiber Black (Matte)",
+    "type": "PLA",
+    "color": "#11120f",
+    "td": 0.3
+  },
+  {
+    "name": "Fiber Daffodil Wood (Matte)",
+    "type": "PLA",
+    "color": "#967350",
+    "td": 2.2
+  },
+  {
+    "name": "Fiber Mahogony Wood (Matte)",
+    "type": "PLA",
+    "color": "#5a3932",
+    "td": 1
+  },
+  {
+    "name": "Fiber Honey Wood (Matte)",
+    "type": "PLA",
+    "color": "#c2906c",
+    "td": 2
+  },
+  {
+    "name": "Fiber Red (Matte)",
+    "type": "PLA",
+    "color": "#d84247",
+    "td": 4
+  },
+  {
+    "name": "Fiber Yellow (Matte)",
+    "type": "PLA",
+    "color": "#feed5c",
+    "td": 4.2
+  },
+  {
+    "name": "Galactic Empire Metalic Purple",
+    "type": "PLA",
+    "color": "#322437",
+    "td": 0.2
+  },
+  {
+    "name": "Simply Black",
+    "type": "PLA",
+    "color": "#0a0c0e",
+    "td": 0.2
+  },
+  {
+    "name": "Simply White",
+    "type": "PLA",
+    "color": "#e8e8e8",
+    "td": 2.3
+  },
+  {
+    "name": "Simply Clear",
+    "type": "PLA",
+    "color": "#d7d4d5",
+    "td": 19.6
+  },
+  {
+    "name": "Empire Strikes Black",
+    "type": "PLA",
+    "color": "#151515",
+    "td": 0.4
+  },
+  {
+    "name": "Joel's Highfive Blue",
+    "type": "PLA",
+    "color": "#1a3c82",
+    "td": 0.5
+  },
+  {
+    "name": "Tangerine Orange Metallic Gold",
+    "type": "PLA",
+    "color": "#d85736",
+    "td": 1.8
+  },
+  {
+    "name": "Mermaid's Tale Metallic Teal",
+    "type": "PLA",
+    "color": "#275c6c",
+    "td": 0.8
+  },
+  {
+    "name": "Candy Apple Red",
+    "type": "PLA",
+    "color": "#a22322",
+    "td": 1.7
+  },
+  {
+    "name": "Cloverleaf Metallic Green",
+    "type": "PLA",
+    "color": "#193a3b",
+    "td": 1.2
+  },
+  {
+    "name": "Stardust Silver Glitter",
+    "type": "PLA",
+    "color": "#b2b4b1",
+    "td": 3.4
+  },
+  {
+    "name": "Wonder Black",
+    "type": "PLA",
+    "color": "#282828",
+    "td": 7
+  },
+  {
+    "name": "Nebula Multicolor",
+    "type": "PLA",
+    "color": "#4c4887",
+    "td": 16
+  },
+  {
+    "name": "Gold Dust Glitter",
+    "type": "PLA",
+    "color": "#e7c88a",
+    "td": 17
+  },
+  {
+    "name": "Scarlet Symphany",
+    "type": "PLA",
+    "color": "#f06188",
+    "td": 13
+  },
+  {
+    "name": "Blue Wonder Glitter",
+    "type": "PLA",
+    "color": "#10518d",
+    "td": 9
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Egg White",
+    "type": "PLA",
+    "color": "#ece8dd",
+    "td": 2.6
+  },
+  {
+    "name": "Gunmetal",
+    "type": "PLA",
+    "color": "#c9c3b7",
+    "td": 1.5
+  },
+  {
+    "name": "Upside Brown",
+    "type": "PLA",
+    "color": "#b39480",
+    "td": 2
+  },
+  {
+    "name": "Coyote Tan",
+    "type": "PLA",
+    "color": "#ebd19d",
+    "td": 3
+  },
+  {
+    "name": "Deep Blue",
+    "type": "PLA",
+    "color": "#5f83cc",
+    "td": 5.5
+  },
+  {
+    "name": "Rep Red",
+    "type": "PLA",
+    "color": "#f7685b",
+    "td": 3
+  },
+  {
+    "name": "Lemondrop",
+    "type": "PLA",
+    "color": "#f9e87e",
+    "td": 3.5
+  },
+  {
+    "name": "Orangesicle",
+    "type": "PLA",
+    "color": "#f8a650",
+    "td": 3
+  },
+  {
+    "name": "Grass Green",
+    "type": "PLA",
+    "color": "#81a87c",
+    "td": 3
+  },
+  {
+    "name": "Army OD Green",
+    "type": "PLA",
+    "color": "#9fa18b",
+    "td": 2
+  },
+  {
+    "name": "Purple Haze",
+    "type": "PLA",
+    "color": "#8989ac",
+    "td": 15
+  },
+  {
+    "name": "Boss Pink",
+    "type": "PLA",
+    "color": "#ac4280",
+    "td": 50
+  }
+]
